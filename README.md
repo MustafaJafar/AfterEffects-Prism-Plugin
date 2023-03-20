@@ -30,7 +30,8 @@
     
 
 ## Dev Notes : 
-    This plugin was possiple by Creating an AE_JSInterface to mimic the functionality of "win32com.client.Dispatch" 
+    This plugin was possiple by Creating an AE_JSInterface to mimic 
+    the functionality of "win32com.client.Dispatch" 
     as After Effects doesn't seem to appear into COM objects list. 
 
     There's a jsx file in integration folder in this repo 
