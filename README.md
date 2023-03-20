@@ -20,9 +20,10 @@
 
 
 ## Version Notes :
+    It works on windows only
     It was tested with AE 2021 and prism v1.3.0.83 
     
-    It works fine and does the work and you can rely on it
+    However, it is finished yet, it works fine, does the work and you can rely on it
     (we did rely on it in our studio)
     
     It still needs a lot of work although 
